@@ -1,0 +1,110 @@
+[
+  {
+      "id": "0b09f312-2dbb-4344-98d8-ee70f1058348",
+      "uniqueId": "1d3b67fb-b24b-4000-a860-c947ac60fbe9",
+      "itemOrderDescription": "Embalagem 200g",
+      "availableUnits": "UNIT",
+      "description": "Manteiga Com Sal Aviação Tablete 200g",
+      "code": "0b09f312-2dbb-4344-98d8-ee70f1058348",
+      "obs": "",
+      "qty": 2,
+      "stock": {
+          "qty": 110,
+          "isStockDivergent": false,
+          "divergentQty": 2
+      },
+      "unitPrice": 14.39,
+      "choices": [],
+      "posCode": "65332fadd867bb3763a5ab36",
+      "tags": [],
+      "productTags": [
+          {
+              "group": "PORTION_SIZE",
+              "tags": [
+                  "NOT_APPLICABLE"
+              ]
+          }
+      ],
+      "ean": "7896331100136",
+      "logoUrl": "820af392-002c-47b1-bfae-d7ef31743c7f/202310160721_yfx4jc8wac.jpg",
+      "weight": {
+          "value": 400,
+          "unit": "GRAMS",
+          "unitWeight": 200
+      },
+      "shouldMultiplyGarnishByItems": true,
+      "scalePrices": {
+          "defaultPrice": 14.39,
+          "scales": []
+      },
+      "status": "AVAILABLE",
+      "visibility": "",
+      "catalogItemData": {
+          "id": "0b09f312-2dbb-4344-98d8-ee70f1058348",
+          "code": "0b09f312-2dbb-4344-98d8-ee70f1058348",
+          "description": "Manteiga Com Sal Aviação Tablete 200g",
+          "details": "Embalagem 200g",
+          "choices": [],
+          "unitPrice": 14.39,
+          "scalePrices": [],
+          "availability": "AVAILABLE",
+          "tags": [
+              "TAG::CART::ATV_GR_DESPIT_665EF_5",
+              "TAG::CART::MER_PI3_ANYUSER_15OFF_15",
+              "TAG::CART::MER_PI3_MUB_15OFF_15"
+          ],
+          "enabled": true
+      },
+      "totalAdditions": 0,
+      "totalValue": 28.78
+  },
+  {
+      "id": "6d78d4b9-686f-4402-b3f2-4ce087b49859",
+      "uniqueId": "e1951dbd-272c-4347-909f-b3af09d5af9a",
+      "itemOrderDescription": "",
+      "availableUnits": "UNIT",
+      "description": "Leite Integral Uht Piracanjuba 1l",
+      "code": "6d78d4b9-686f-4402-b3f2-4ce087b49859",
+      "obs": "",
+      "qty": 1,
+      "stock": {
+          "qty": 5199,
+          "isStockDivergent": false,
+          "divergentQty": 1
+      },
+      "unitPrice": 5.59,
+      "choices": [],
+      "posCode": "65332faad66f4274e53fd185",
+      "tags": [],
+      "productTags": [],
+      "ean": "7898215151708",
+      "logoUrl": "820af392-002c-47b1-bfae-d7ef31743c7f/202307040236_cmj3lhsdepj.jpg",
+      "weight": {
+          "value": 1000,
+          "unit": "GRAMS",
+          "unitWeight": 1000
+      },
+      "shouldMultiplyGarnishByItems": true,
+      "scalePrices": {
+          "defaultPrice": 5.59,
+          "scales": []
+      },
+      "status": "AVAILABLE",
+      "visibility": "",
+      "catalogItemData": {
+          "id": "6d78d4b9-686f-4402-b3f2-4ce087b49859",
+          "code": "6d78d4b9-686f-4402-b3f2-4ce087b49859",
+          "description": "Leite Integral Uht Piracanjuba 1l",
+          "details": "",
+          "choices": [],
+          "unitPrice": 5.59,
+          "scalePrices": [],
+          "promotionalPrice": 5.59,
+          "availability": "AVAILABLE",
+          "tags": [],
+          "enabled": true
+      },
+      "totalAdditions": 0,
+      "totalValue": 5.59
+  }
+]
